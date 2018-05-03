@@ -385,6 +385,11 @@ textarea {
     margin: 10px;
 }
 
+.formCont h3{
+    color: white;
+    font-family: "Bebas Neue";
+}
+
 .formCont .form-group{
     color: white;
 }
